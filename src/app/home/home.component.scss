@@ -1,0 +1,23 @@
+h2, p, span {
+  line-height: 25px;
+  font-family: 'Roboto Mono', monospace;
+  padding: 5px;
+  text-align: justify;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.content {
+  text-indent: 50px;
+  font-size: 18px;
+}
+
+article {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
